@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor/static/css/main.b73ad40d.chunk.css",
+    "main.js": "/frontend-mentor/static/js/main.c12c4989.chunk.js",
+    "main.js.map": "/frontend-mentor/static/js/main.c12c4989.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor/static/js/runtime-main.4b928d32.js",
+    "runtime-main.js.map": "/frontend-mentor/static/js/runtime-main.4b928d32.js.map",
+    "static/js/2.427f5673.chunk.js": "/frontend-mentor/static/js/2.427f5673.chunk.js",
+    "static/js/2.427f5673.chunk.js.map": "/frontend-mentor/static/js/2.427f5673.chunk.js.map",
+    "index.html": "/frontend-mentor/index.html",
+    "static/css/main.b73ad40d.chunk.css.map": "/frontend-mentor/static/css/main.b73ad40d.chunk.css.map",
+    "static/js/2.427f5673.chunk.js.LICENSE.txt": "/frontend-mentor/static/js/2.427f5673.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/frontend-mentor/static/media/background-technology-tablet.48c38b02.jpg",
+    "static/media/icon-close.d47fda63.svg": "/frontend-mentor/static/media/icon-close.d47fda63.svg",
+    "static/media/icon-hamburger.5273efa7.svg": "/frontend-mentor/static/media/icon-hamburger.5273efa7.svg",
+    "static/media/image-anousheh-ansari.2d647128.png": "/frontend-mentor/static/media/image-anousheh-ansari.2d647128.png",
+    "static/media/image-douglas-hurley.7540fbb6.png": "/frontend-mentor/static/media/image-douglas-hurley.7540fbb6.png",
+    "static/media/image-europa.3e95f7d0.png": "/frontend-mentor/static/media/image-europa.3e95f7d0.png",
+    "static/media/image-launch-vehicle-landscape.4281a59f.jpg": "/frontend-mentor/static/media/image-launch-vehicle-landscape.4281a59f.jpg",
+    "static/media/image-launch-vehicle-portrait.0c758955.jpg": "/frontend-mentor/static/media/image-launch-vehicle-portrait.0c758955.jpg",
+    "static/media/image-mark-shuttleworth.fc30f35b.png": "/frontend-mentor/static/media/image-mark-shuttleworth.fc30f35b.png",
+    "static/media/image-mars.1b224c86.png": "/frontend-mentor/static/media/image-mars.1b224c86.png",
+    "static/media/image-moon.d287d071.png": "/frontend-mentor/static/media/image-moon.d287d071.png",
+    "static/media/image-space-capsule-landscape.d672da81.jpg": "/frontend-mentor/static/media/image-space-capsule-landscape.d672da81.jpg",
+    "static/media/image-space-capsule-portrait.dd0ac138.jpg": "/frontend-mentor/static/media/image-space-capsule-portrait.dd0ac138.jpg",
+    "static/media/image-spaceport-landscape.0f3ca5c0.jpg": "/frontend-mentor/static/media/image-spaceport-landscape.0f3ca5c0.jpg",
+    "static/media/image-spaceport-portrait.85523db5.jpg": "/frontend-mentor/static/media/image-spaceport-portrait.85523db5.jpg",
+    "static/media/image-titan.d4b078f9.png": "/frontend-mentor/static/media/image-titan.d4b078f9.png",
+    "static/media/image-victor-glover.8a9a5424.png": "/frontend-mentor/static/media/image-victor-glover.8a9a5424.png",
+    "static/media/logo.565f7f2c.svg": "/frontend-mentor/static/media/logo.565f7f2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b928d32.js",
+    "static/js/2.427f5673.chunk.js",
+    "static/css/main.b73ad40d.chunk.css",
+    "static/js/main.c12c4989.chunk.js"
+  ]
+}
