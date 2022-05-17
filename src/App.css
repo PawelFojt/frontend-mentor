@@ -32,7 +32,6 @@ body::after {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
 /*Nagłówki*/
 h1 {
   font-size: clamp(5rem,20vw,9.375rem);
